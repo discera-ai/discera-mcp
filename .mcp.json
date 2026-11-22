@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "discera": {
+      "type": "http",
+      "url": "https://mcp.discera.ai/mcp"
+    }
+  }
+}

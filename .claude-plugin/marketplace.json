@@ -1,0 +1,15 @@
+{
+  "name": "discera",
+  "description": "The Discera connector: answers about your competitors, buyers and closed deals from your Discera workspace.",
+  "owner": {
+    "name": "Discera Inc.",
+    "url": "https://discera.ai"
+  },
+  "plugins": [
+    {
+      "name": "discera",
+      "source": "./",
+      "description": "Ask your Discera knowledge base about competitors, buyers and closed deals, with sources."
+    }
+  ]
+}

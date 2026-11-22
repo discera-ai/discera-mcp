@@ -1,0 +1,20 @@
+{
+  "name": "discera",
+  "version": "1.0.0",
+  "description": "Ask your Discera knowledge base about competitors, buyers and closed deals, with sources.",
+  "author": {
+    "name": "Discera Inc.",
+    "url": "https://discera.ai"
+  },
+  "homepage": "https://discera.ai/product/mcp",
+  "repository": "https://github.com/discera-ai/discera-mcp",
+  "license": "MIT",
+  "keywords": [
+    "competitive-intelligence",
+    "battlecards",
+    "win-loss",
+    "sales-calls",
+    "mcp"
+  ],
+  "privacyPolicyUrl": "https://discera.ai/privacy"
+}
