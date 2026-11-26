@@ -3,8 +3,17 @@
   "name": "ai.discera/mcp",
   "title": "Discera",
   "description": "Competitor changes, battlecards and sales call findings from your Discera workspace, with sources.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://discera.ai/product/mcp",
+  "icons": [
+    {
+      "src": "https://discera.ai/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
   "repository": {
     "url": "https://github.com/discera-ai/discera-mcp",
     "source": "github"
